@@ -1,0 +1,12 @@
+{
+    "M1": {
+        "team1": "Kolkata Knight Riders",
+        "team2": "Royal Challengers Bangalore",
+        "date": "2025-03-22",
+        "time": "20:30",
+        "prediction_cutoff": "2025-03-22 20:25",
+        "venue": "Kolkata",
+        "is_playoff": false,
+        "result": null
+    }
+}

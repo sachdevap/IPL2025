@@ -1,0 +1,4 @@
+data/users.json
+.venv/
+matches.csv
+playersAuction.csv

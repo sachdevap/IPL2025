@@ -1,0 +1,310 @@
+{
+    "Royal Challengers Bangalore": {
+        "batsmen": [
+            "Virat Kohli",
+            "Rajat Patidar",
+            "Devdutt Padikkal",
+            "Phil Salt",
+            "Jitesh Sharma",
+            "Swastik Chikara"
+        ],
+        "bowlers": [
+            "Yash Dayal",
+            "Josh Hazlewood",
+            "Rasikh Salam",
+            "Suyash Sharma",
+            "Bhuvneshwar Kumar",
+            "Nuwan Thushara",
+            "Mohit Rathee",
+            "Lungi Ngidi",
+            "Abhinandan Singh"
+        ],
+        "all_rounders": [
+            "Liam Livingstone",
+            "Krunal Pandya",
+            "Swapnil Singh",
+            "Tim David",
+            "Romario Shepherd",
+            "Manoj Bhandage",
+            "Jacob Bethell"
+        ]
+    },
+    "Mumbai Indians": {
+        "batsmen": [
+            "Suryakumar Yadav",
+            "Rohit Sharma",
+            "Robin Minz",
+            "Ryan Rickelton",
+            "Krishnan Shrijith",
+            "Bevon Jacobs"
+        ],
+        "bowlers": [
+            "Jasprit Bumrah",
+            "Trent Boult",
+            "Karn Sharma",
+            "Deepak Chahar",
+            "AM Ghazanfar",
+            "Arjun Tendulkar",
+            "Ashwani Kumar",
+            "Reece Topley",
+            "Lizaad Williams",
+            "Satyanarayana Raju"
+        ],
+        "all_rounders": [
+            "Hardik Pandya",
+            "Tilak Varma",
+            "Naman Dhir",
+            "Will Jacks",
+            "Mitchell Santner",
+            "Raj\u00c2 Bawa",
+            "Vignesh Puthur"
+        ]
+    },
+    "Sunrisers Hyderabad": {
+        "batsmen": [
+            "Heinrich Klaasen",
+            "Travis Head",
+            "Ishan Kishan",
+            "Abhinav Manohar",
+            "Atharva Taide",
+            "Sachin Baby",
+            "Aniket Verma"
+        ],
+        "bowlers": [
+            "Mohammed Shami",
+            "Rahul Chahar",
+            "Adam Zampa",
+            "Simarjeet Singh",
+            "Zeeshan Ansari",
+            "Jaydev Unadkat",
+            "Eshan Malinga"
+        ],
+        "all_rounders": [
+            "Pat Cummins",
+            "Abhishek Sharma",
+            "Nitish Kumar Reddy",
+            "Harshal Patel",
+            "Brydon Carse",
+            "Kamindu Mendis"
+        ]
+    },
+    "Chennai Super Kings": {
+        "batsmen": [
+            "Ruturaj Gaikwad",
+            "MS Dhoni",
+            "Devon Conway",
+            "Rahul Tripathi",
+            "Shaik Rasheed",
+            "Vansh Bedi",
+            "C Andre Siddarth"
+        ],
+        "bowlers": [
+            "Matheesha Pathirana",
+            "Khaleel Ahmed",
+            "Noor Ahmad",
+            "Shreyas Gopal",
+            "Mukesh Choudhary",
+            "Gurjapneet Singh",
+            "Nathan Ellis"
+        ],
+        "all_rounders": [
+            "Ravindra Jadeja",
+            "Shivam Dube",
+            "Ravichandran Ashwin",
+            "Rachin Ravindra",
+            "Vijay Shankar",
+            "Sam Curran",
+            "Anshul Kamboj",
+            "Deepak Hooda",
+            "Jamie Overton",
+            "Kamlesh Nagarkoti",
+            "Ramakrishna Ghosh"
+        ]
+    },
+    "Delhi Capitals": {
+        "batsmen": [
+            "Tristan Stubbs",
+            "Abishek Porel",
+            "KL Rahul",
+            "Harry Brook",
+            "Jake Fraser-McGurk",
+            "Karun Nair",
+            "Faf du Plessis",
+            "Donovan Ferreira"
+        ],
+        "bowlers": [
+            "Kuldeep Yadav",
+            "Mitchell Starc",
+            "T Natarajan",
+            "Mohit Sharma",
+            "Mukesh Kumar",
+            "Dushmantha Chameera"
+        ],
+        "all_rounders": [
+            "Axar Patel",
+            "Sameer Rizvi",
+            "Ashutosh Sharma",
+            "Darshan Nalkande",
+            "Ajay Mandal",
+            "Vipraj Nigam",
+            "Manvanth Kumar",
+            "Tripurana Vijay",
+            "Madhav Tiwari"
+        ]
+    },
+    "Kolkata Knight Riders": {
+        "batsmen": [
+            "Rinku Singh",
+            "Quinton de Kock",
+            "Rahmanullah Gurbaz",
+            "Angkrish Raghuvanshi",
+            "Luvnith Sisodia",
+            "Rovman Powell",
+            "Ajinkya Rahane",
+            "Manish Pandey"
+        ],
+        "bowlers": [
+            "Sunil Narine",
+            "Harshit Rana",
+            "Anrich Nortje",
+            "Vaibhav Arora",
+            "Mayank Markande",
+            "Spencer Johnson",
+            "Umran Malik"
+        ],
+        "all_rounders": [
+            "Varun Chakravarthy",
+            "Andre Russell",
+            "Ramandeep Singh",
+            "Venkatesh Iyer",
+            "Anukul Roy",
+            "Moeen Ali"
+        ]
+    },
+    "Rajasthan Royals": {
+        "batsmen": [
+            "Sanju Samson",
+            "Dhruv Jurel",
+            "Shimron Hetmyer",
+            "Shubham Dubey",
+            "Kunal Singh Rathore",
+            "Vaibhav Suryavanshi"
+        ],
+        "bowlers": [
+            "Sandeep Sharma",
+            "Wanindu Hasaranga",
+            "Maheesh Theekshana",
+            "Akash Madhwal",
+            "Kumar Kartikeya",
+            "Tushar Deshpande",
+            "Fazalhaq Farooqi",
+            "Kwena Maphaka",
+            "Ashok Sharma",
+            "Jofra Archer"
+        ],
+        "all_rounders": [
+            "Yashasvi Jaiswal",
+            "Riyan Parag",
+            "Nitish Rana",
+            "Yudhvir Singh"
+        ]
+    },
+    "Gujarat Titans": {
+        "batsmen": [
+            "Shubman Gill",
+            "Jos Buttler",
+            "Kumar Kushagra",
+            "Anuj Rawat",
+            "Glenn Phillips",
+            "Sherfane Rutherford"
+        ],
+        "bowlers": [
+            "Rashid Khan",
+            "Kagiso Rabada",
+            "Mohammed Siraj",
+            "Prasidh Krishna",
+            "Manav Suthar",
+            "Gerald Coetzee",
+            "Gurnoor Brar",
+            "Ishant Sharma",
+            "Kulwant Khejroliya"
+        ],
+        "all_rounders": [
+            "Sai Sudharsan",
+            "Rahul Tewatia",
+            "M Shahrukh Khan",
+            "Mahipal Lomror",
+            "Nishant Sindhu",
+            "Washington Sundar",
+            "Arshad Khan",
+            "Sai Kishore",
+            "Jayant Yadav",
+            "Karim Janat"
+        ]
+    },
+    "Lucknow Super Giants": {
+        "batsmen": [
+            "Nicholas Pooran",
+            "Rishabh Pant",
+            "David Miller",
+            "Aiden Markram",
+            "Aryan Juyal",
+            "Himmat Singh",
+            "Matthew Breetzke"
+        ],
+        "bowlers": [
+            "Ravi Bishnoi",
+            "Mayank Yadav",
+            "Mohsin Khan",
+            "Avesh Khan",
+            "Akash Deep",
+            "Manimaran Siddharth",
+            "Digvesh Singh",
+            "Akash Singh",
+            "Shamar Joseph",
+            "Prince Yadav"
+        ],
+        "all_rounders": [
+            "Ayush Badoni",
+            "Mitchell Marsh",
+            "Abdul Samad",
+            "Shahbaz Ahmed",
+            "Rajvardhan Hangargekar",
+            "Arshin Kulkarni",
+            "Yuvraj Chaudhary"
+        ]
+    },
+    "Punjab Kings": {
+        "batsmen": [
+            "Prabhsimran Singh",
+            "Shreyas Iyer",
+            "Nehal Wadhera",
+            "Vishnu Vinod",
+            "Josh Inglis",
+            "Harnoor Singh",
+            "Pyla Avinash"
+        ],
+        "bowlers": [
+            "Arshdeep Singh",
+            "Yuzvendra Chahal",
+            "Yash Thakur",
+            "Vijaykumar Vyshak",
+            "Lockie Ferguson",
+            "Kuldeep Sen",
+            "Xavier Bartlett"
+        ],
+        "all_rounders": [
+            "Shashank Singh",
+            "Glenn Maxwell",
+            "Marcus Stoinis",
+            "Harpreet Brar",
+            "Marco Jansen",
+            "Azmatullah Omarzai",
+            "Priyansh Arya",
+            "Praveen Dubey",
+            "Aaron Hardie",
+            "Musheer Khan",
+            "Suryansh Shedge"
+        ]
+    }
+}
