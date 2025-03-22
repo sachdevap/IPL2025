@@ -18,7 +18,7 @@ class AuthManager:
         
         # Create admin user if not exists
         if not self.get_user("admin"):
-            self.create_user("admin", "admin123", "admin")  # Change this password in production!
+            self.create_user("admin", "********", "admin")  # Change this password in production!
 
     def load_users(self):
         """Load users from JSON file"""

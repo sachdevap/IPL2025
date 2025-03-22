@@ -173,7 +173,7 @@ if page == "Home":
     
     st.markdown("---")
     st.markdown("""
-    Welcome to the IPL 2025 WhatsApp Paper Game! Compete with friends to predict match outcomes
+    Welcome to the IPL 2025 Prediction Game! Compete with friends to predict match outcomes
     and become the IPL Prediction Champion.
     """)
     
